@@ -1,4 +1,8 @@
 ### Activities
+- 2022 (6-9 Sep.), [Oral presentation](https://docs.google.com/presentation/d/1RX1tJb7cMA6gucGmCyoY9s9ZwMhY6grn/edit?usp=sharing&ouid=109986081501801277171&rtpof=true&sd=true) at the [UK Fluids Conference 2022, Sheffield, UK](https://ukfluids2022.sheffield.ac.uk/home), within the session of "[Comp. & data-driven methods II](https://drive.google.com/file/d/1skQMyd1eJmy1WU63t29MdUFxjpeU7LaD/view?usp=sharing)". Mahya Hajihassanpour presented about "[Efficient uncertainty quantification methods for flood modelling](https://docs.google.com/presentation/d/1RX1tJb7cMA6gucGmCyoY9s9ZwMhY6grn/edit?usp=sharing&ouid=109986081501801277171&rtpof=true&sd=true)".
+
+- 2022 (6-9 Sep.), Oral presentation delivered at the [7th IAHR Europe Congress, Athens, Greece](https://www.erasmus.gr/microsites/1227), within the session "Extreme Flood Events: Advancing Numerical Modelling and Strategies for Flood Mitigation (Part 1)" (G. Kesserwani and M. Shirvani). Georges presented about "Microscopic simulation of human response dynamics during a flood-induced evacuation from a football stadium" (presentation to be uploaded after the conference).
+
 - 2022 (6-9 Sep.), Oral presentation delivered at the [7th IAHR Europe Congress, Athens, Greece](https://www.erasmus.gr/microsites/1227), within the session "Extreme Flood Events: Advancing Numerical Modelling and Strategies for Flood Mitigation (Part 1)" (G. Kesserwani and M. Shirvani). Georges presented about "Microscopic simulation of human response dynamics during a flood-induced evacuation from a football stadium" (presentation to be uploaded after the conference).
 
 - 2022 (7 Jul.), University of Sheffield, progress update and advisory board meeting (including video-recorded presentation).
